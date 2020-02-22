@@ -1,3 +1,3 @@
-# Data-Cleaning-using-pandas-of-Ebolas-dataset
+# Sentiment-analysis-Ebolas
 
-This involves cleaning and merging of the massive dataset of Ebola disease using Pandas package of Python
+Find the social drivers of Ebola disease using text mining
